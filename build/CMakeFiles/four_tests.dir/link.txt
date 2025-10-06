@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/four_tests.dir/test_four.cpp.o CMakeFiles/four_tests.dir/Four.cpp.o -o four_tests  /usr/lib/x86_64-linux-gnu/libgtest_main.a /usr/lib/x86_64-linux-gnu/libgtest.a 
