@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/four_example.dir/main.cpp.o CMakeFiles/four_example.dir/Four.cpp.o -o four_example 

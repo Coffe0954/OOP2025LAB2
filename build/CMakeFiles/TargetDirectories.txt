@@ -1,4 +1,0 @@
-/mnt/d/ooplab2/OOP2025LAB2/build/CMakeFiles/four_example.dir
-/mnt/d/ooplab2/OOP2025LAB2/build/CMakeFiles/four_tests.dir
-/mnt/d/ooplab2/OOP2025LAB2/build/CMakeFiles/edit_cache.dir
-/mnt/d/ooplab2/OOP2025LAB2/build/CMakeFiles/rebuild_cache.dir
